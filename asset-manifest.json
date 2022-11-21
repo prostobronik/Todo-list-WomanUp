@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-list-WomanUp/static/css/main.10f36b28.css",
+    "main.js": "/Todo-list-WomanUp/static/js/main.37f035f1.js",
+    "index.html": "/Todo-list-WomanUp/index.html",
+    "main.10f36b28.css.map": "/Todo-list-WomanUp/static/css/main.10f36b28.css.map",
+    "main.37f035f1.js.map": "/Todo-list-WomanUp/static/js/main.37f035f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10f36b28.css",
+    "static/js/main.37f035f1.js"
+  ]
+}
